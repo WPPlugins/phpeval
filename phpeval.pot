@@ -1,0 +1,60 @@
+# Translation of the WordPress plugin PHP Eval 1.0 by Carsten Jonstrup.
+# Copyright (C) 2010 Carsten Jonstrup
+# This file is distributed under the same license as the PHP Eval package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PHP Eval 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/phpeval\n"
+"POT-Creation-Date: 2010-02-12 21:30+0100\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  phpeval.pot (PHP Eval 1.0)  #-#-#-#-#
+#. Plugin Name of an extension
+#: phpeval.php:155
+msgid "PHP Eval"
+msgstr ""
+
+#: phpeval.php:183 phpeval.php:204
+msgid "Name"
+msgstr ""
+
+#: phpeval.php:184 phpeval.php:205
+msgid "Value"
+msgstr ""
+
+#: phpeval.php:191
+msgid "Update"
+msgstr ""
+
+#: phpeval.php:199
+msgid "Add new"
+msgstr ""
+
+#: phpeval.php:213
+msgid "Add"
+msgstr ""
+
+#. #-#-#-#-#  phpeval.pot (PHP Eval 1.0)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  phpeval.pot (PHP Eval 1.0)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://www.lenius.dk"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"The PHPEval Plugin is a Wordpress plugin which allows users to write php "
+"code inside of their pages."
+msgstr ""
+
+#. Author of an extension
+msgid "Carsten Jonstrup"
+msgstr ""
